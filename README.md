@@ -18,8 +18,8 @@
 - **Backend:** Spring Boot (Java)
 - **Database:** MongoDB
 - **Frontend:** React.js (or specify actual stack)
-- **Authentication:** JWT / OAuth 2.0
-- **Hosting:** TBD (AWS / Heroku)
+- **Authentication:** JWT / OAuth 2.0 (soon)
+
 
 ---
 
