@@ -17,7 +17,7 @@
 ## 🛠 Tech Stack
 - **Backend:** Spring Boot (Java)
 - **Database:** MongoDB
-- **Frontend:** React.js (or specify actual stack)
+- **Frontend:** React Native
 - **Authentication:** JWT / OAuth 2.0 (soon)
 
 
